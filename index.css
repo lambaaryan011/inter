@@ -1,0 +1,158 @@
+.screenContainer {
+    display: flex;
+    justify-content: center;
+  
+    background-image: linear-gradient(to top right, purple, pink, rgb(167, 167, 71), purple, blue);
+    height: 100vh;
+    padding: 10px;
+  }
+  
+  .mainContainer {
+  
+    box-shadow: 0px 0px 20px 5px gray;
+    border-radius: 25px;
+    background-color: aliceblue;
+    height: 92vh;
+    width: 95%;
+    margin-top: 10px;
+  
+  
+  
+  }
+  
+  .stt {
+    margin-left: 0px;
+  }
+  
+  .profileDp {
+    margin-right: 30px;
+    width: 60px;
+    height: 60px;
+  }
+  
+  .mainContainer1 {
+  
+    display: flex;
+  
+  
+  }
+  
+  .SideNavbar {
+    display: flex;
+    margin: 1vh;
+  
+    font-size: 10px;
+  
+  }
+  
+  .main-box {
+    width: 15vw;
+    height: 7vh;
+  
+    background-color: rgb(255, 252, 249);
+    border-radius: 20px;
+  
+    margin-left: 5.4vh;
+  }
+  
+  .main-content {
+    display: inline-block;
+    margin-left: 1rem;
+    font-size: 17px;
+  
+  }
+  
+  .icon {
+    border-radius: 15px;
+    border: 1px solid black;
+    padding: 8px;
+    font-size: 20px;
+    margin-bottom: 2rem;
+    margin-left: 2rem;
+  }
+  
+  .invoice {
+    position: absolute;
+    margin-top: 180px;
+    margin-left: 24%;
+    width: 70.2%;
+    height: 30%;
+    display: flex;
+  
+  }
+  
+  .invoice img {
+    width: 47.3%;
+    height: 100%;
+    border-radius: 20px;
+    margin-left: 53px;
+  }
+  
+  .invoice .secondimg {
+    margin-left: 40px;
+    height: 100%;
+    width: 47.3%;
+  }
+  
+  .last {
+  
+    position: absolute;
+    height: 20px;
+    top: 80%;
+    left: 28%;
+    width: 68.5%;
+    margin-left: -0.2%;
+    height: 13%;
+    border-radius: 20px;
+    background-color: rgb(255, 252, 249);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+  }
+  
+  .last span {
+    margin-left: 5px;
+  }
+  
+  .logo {
+    display: flex;
+    padding-right: 20px;
+  }
+  
+  .logo span {
+    margin-left: -8px;
+  }
+  
+  .logo img {
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+  
+  .logo .logotext {
+    margin-top: 20px;
+  }
+  
+  .headerr {
+    font-size: 10px;
+  }
+  
+  .last {
+    margin-top: 20px;
+    height: 70px;
+    width: 920px;
+    margin-left: 57px;
+  }
+  
+  .main-box {
+    margin-left: 10px;
+  }
+  
+  .pricee {
+    position: absolute;
+    padding-top: -90px;
+    font-size: 13px;
+    font-weight: 600;
+  }
+  
+  
